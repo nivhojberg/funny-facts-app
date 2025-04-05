@@ -20,6 +20,7 @@ defineProps({ fact: Object })
   padding: 1rem;
   margin: 1rem;
   border-radius: 10px;
+  background: #fff;
 }
 
 p {
